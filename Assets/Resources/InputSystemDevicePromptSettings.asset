@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a3d732853e4cba89e67af01d427375, type: 3}
+  m_Name: InputSystemDevicePromptSettings
+  m_EditorClassIdentifier: 
+  InputActionAssets:
+  - {fileID: -944628639613478452, guid: c512c77e89311b7429ac89488ef8417c, type: 3}
+  - {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  DevicePromptAssets:
+  - {fileID: 11400000, guid: 40761e0415cebda46a2c5d21216e1bab, type: 2}
+  - {fileID: 11400000, guid: bc5246a4f6266e54cb49385d2b27e0da, type: 2}
+  - {fileID: 11400000, guid: d95368f68b08cc247adfada5fcd6bafb, type: 2}
+  - {fileID: 11400000, guid: ead5dfb050972df468dca1d19ecd3fa7, type: 2}
+  - {fileID: 11400000, guid: 794c9c5d75af65e42815ca1a9cb884bc, type: 2}
+  - {fileID: 11400000, guid: 57935fdb7573dc14980fbcc119e68639, type: 2}
+  - {fileID: 11400000, guid: ff3a55e4fbb9a8e4c9c9630b86834054, type: 2}
+  DefaultDevicePriority: 020000000100000000000000
+  OpenTag: 91
+  CloseTag: 93

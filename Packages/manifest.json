@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.simonoliver.inputsystemactionprompts": "file:C:/Users/handc/GitProjects/InputSystemActionPromptsInternal",
+    "com.simonoliver.inputsystemactionprompts": "https://github.com/simonoliver/InputSystemActionPrompts.git",
     "com.unity.collab-proxy": "2.0.0",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.18",

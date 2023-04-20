@@ -1,13 +1,14 @@
 {
   "dependencies": {
     "com.simonoliver.inputsystemactionprompts": {
-      "version": "file:C:/Users/handc/GitProjects/InputSystemActionPromptsInternal",
+      "version": "https://github.com/simonoliver/InputSystemActionPrompts.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.textmeshpro": "2.0.1",
         "com.unity.inputsystem": "1.5.0"
-      }
+      },
+      "hash": "217fd8940f1631b90149efe67925b9e50db0b343"
     },
     "com.unity.2d.animation": {
       "version": "7.0.9",

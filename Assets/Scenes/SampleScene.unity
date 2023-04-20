@@ -813,7 +813,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -16}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 65.3}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &950865129
@@ -840,7 +840,8 @@ MonoBehaviour:
     a Text Field using the <b>PromptText</b> component. Try connecting a controller
     (PS4, PS5, Switch Pro Controller, Xbox Controller) and press a button to see
     prompts switch to correct imagery. This was done by entering the action name<i>
-    [GameAction/Steer]</i> as a tag in the original text.
+    [GameAction/Steer]</i> as a tag in the original text. <i>(Note, under WebGL we
+    can't detect different GamePads, but run locally to see variations)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0dce1238e9e92864b9e734178b589933, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 6dfbd354fc9c9a44085ff1a0395de981, type: 2}
